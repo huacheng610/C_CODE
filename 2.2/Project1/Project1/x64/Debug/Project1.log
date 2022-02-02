@@ -1,0 +1,4 @@
+﻿  2.2.c
+D:\code\C_CODE\2.2\Project1\Project1\2.2.c(10,29): warning C4047: “!=”:“int”与“char [2]”的间接级别不同
+D:\code\C_CODE\2.2\Project1\Project1\2.2.c(16,16): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+LINK : fatal error LNK1168: 无法打开 D:\code\C_CODE\2.2\Project1\x64\Debug\Project1.exe 进行写入
