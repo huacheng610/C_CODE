@@ -24,7 +24,6 @@ int main()
 
 
 //写一个代码，打印100-200之间的素数
-// 方法一
 //#include<stdio.h>
 //int main()
 //{
@@ -47,32 +46,6 @@ int main()
 //		}
 //	}
 //	printf("\ncount=%d\n", count);
-//	return 0;
-//}
-
-//方法二
-//#include<math.h>
-//int mian()
-//{
-//	int i = 0;
-//	int count = 0;
-//	for (i = 100; i <=200; i++)
-//	{
-//		int j = 0;
-//		for (j = 2; j <= sqrt(i); j++)          //开平方的数学库函数
-//		{
-//			if (i % j == 0)
-//			{
-//				break;
-//			}
-//		}
-//		if (j > sqrt(i))
-//		{
-//			count++;
-//			printf("%d ", i);
-//		}
-//	}
-//	printf("\ncount= %d\n", count);
 //	return 0;
 //}
 
