@@ -1,0 +1,5 @@
+﻿  test.c
+D:\code\C_CODE\3.7\Project2\Project2\test.c(12,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+D:\code\C_CODE\3.7\Project2\Project2\test.c(12,8): message : 占位符和其参数预计 6 可变参数，但提供的却是 0 参数
+D:\code\C_CODE\3.7\Project2\Project2\test.c(12,8): message : 缺失的可变参数 1 为格式字符串“%d”所需
+  Project2.vcxproj -> D:\code\C_CODE\3.7\Project2\x64\Debug\Project2.exe

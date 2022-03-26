@@ -1,0 +1,7 @@
+﻿  game.c
+D:\code\C_CODE\3.7\Project1\Project1\game.c(10,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+D:\code\C_CODE\3.7\Project1\Project1\game.c(10,8): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+D:\code\C_CODE\3.7\Project1\Project1\game.c(10,8): message : 缺失的可变参数 1 为格式字符串“%c”所需
+D:\code\C_CODE\3.7\Project1\Project1\game.c(7,7): warning C4101: “c1”: 未引用的局部变量
+D:\code\C_CODE\3.7\Project1\Project1\game.c(7,11): warning C4101: “c2”: 未引用的局部变量
+  Project1.vcxproj -> D:\code\C_CODE\3.7\Project1\x64\Debug\Project1.exe
