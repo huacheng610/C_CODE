@@ -1,0 +1,4 @@
+﻿  ccc.c
+D:\code\C_CODE\ccc\Project1\Project1\ccc.c(38,17): warning C4047: “==”:“int *”与“int”的间接级别不同
+D:\code\C_CODE\ccc\Project1\Project1\ccc.c(47,20): warning C4047: “<”:“int *”与“int”的间接级别不同
+  Project1.vcxproj -> D:\code\C_CODE\ccc\Project1\x64\Debug\Project1.exe
